@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.scoppiato.it.ico",
     "slug": "scoppiato",
     "status": "down",
-    "uptime": "91.24%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "91.24%",
+    "uptime": "91.17%",
+    "uptimeDay": "89.63%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "91.17%",
     "time": 3121,
     "timeDay": 10680,
     "timeWeek": 4994,
@@ -48,7 +48,7 @@
       "2026-07-08": 14,
       "2026-08-01": 157,
       "2026-08-04": 120,
-      "2026-08-06": 3
+      "2026-08-06": 149
     }
   },
   {
@@ -57,11 +57,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/notepaddo.scoppiato.it.ico",
     "slug": "notepaddo",
     "status": "down",
-    "uptime": "87.70%",
-    "uptimeDay": "99.88%",
+    "uptime": "87.63%",
+    "uptimeDay": "89.71%",
     "uptimeWeek": "75.77%",
-    "uptimeMonth": "82.89%",
-    "uptimeYear": "87.70%",
+    "uptimeMonth": "82.55%",
+    "uptimeYear": "87.63%",
     "time": 2331,
     "timeDay": 10104,
     "timeWeek": 3845,
@@ -105,7 +105,7 @@
       "2026-07-27": 1359,
       "2026-08-01": 157,
       "2026-08-04": 119,
-      "2026-08-06": 2
+      "2026-08-06": 148
     }
   },
   {
@@ -114,11 +114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beatnova.scoppiato.it.ico",
     "slug": "beat-nova",
     "status": "down",
-    "uptime": "86.55%",
-    "uptimeDay": "99.97%",
+    "uptime": "86.49%",
+    "uptimeDay": "89.80%",
     "uptimeWeek": "75.80%",
-    "uptimeMonth": "79.70%",
-    "uptimeYear": "86.55%",
+    "uptimeMonth": "79.36%",
+    "uptimeYear": "86.49%",
     "time": 2784,
     "timeDay": 10204,
     "timeWeek": 4416,
@@ -162,7 +162,7 @@
       "2026-07-25": 676,
       "2026-08-01": 156,
       "2026-08-04": 118,
-      "2026-08-06": 0
+      "2026-08-06": 147
     }
   },
   {
@@ -189,7 +189,7 @@
       "2026-03-28": 1440,
       "2026-03-27": 1312,
       "2026-04-01": 1349,
-      "2026-08-06": 18,
+      "2026-08-06": 164,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
