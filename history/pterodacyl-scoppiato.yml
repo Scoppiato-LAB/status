@@ -1,7 +1,7 @@
 url: https://panel.scoppiato.it
-status: up
-code: 200
-responseTime: 455
-lastUpdated: 2026-10-06T02:41:25.047Z
+status: down
+code: 500
+responseTime: 583
+lastUpdated: 2026-10-06T20:57:58.790Z
 startTime: 2026-03-23T00:16:21.546Z
 generator: Upptime <https://github.com/upptime/upptime>
